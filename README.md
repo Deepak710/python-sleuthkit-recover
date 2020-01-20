@@ -2,7 +2,7 @@
 
 ## Linux command line thumbstick file recovery script using SleuthKit
 
-### Features,
+### Features
 1. Recover accidentaly deleted files from your thumbstick
 1. Choose which files to recover
 
@@ -23,7 +23,7 @@
 ### Versions
 * **[0.0a1.dev1](https://github.com/Deepak710/python-sleuthkit-recover/tree/0.0a1.dev1)**
   * Initial Commit
-* **[0.1a1.dev1](https://github.com/Deepak710/python-sleuthkit-recover/tree/0.1a1.dev1)**
+* **[0.1a1.dev2](https://github.com/Deepak710/python-sleuthkit-recover/tree/0.1a1.dev2)**
   * Added NTFS support
 
 Contact Me: [Telegram](https://t.me/AzorAhoy)
