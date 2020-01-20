@@ -23,7 +23,7 @@
 ### Versions
 * **[0.0a1.dev1](https://github.com/Deepak710/python-sleuthkit-recover/tree/0.0a1.dev1)**
   * Initial Commit
-* **[0.1a1.dev2](https://github.com/Deepak710/python-sleuthkit-recover/tree/0.1a1.dev2)**
+* **[0.1a1.dev1](https://github.com/Deepak710/python-sleuthkit-recover/tree/0.1a1.dev1)**
   * Added NTFS support
 
 Contact Me: [Telegram](https://t.me/AzorAhoy)
